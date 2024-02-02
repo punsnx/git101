@@ -1,4 +1,4 @@
-this is new1.txt
+this is new1.txt jing jing
 created by
 user2
 git102
